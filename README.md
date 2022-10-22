@@ -25,7 +25,7 @@ To close it quick, press Escape.
 
 ### Installation
 
-- Download the binaries
+- Download the binaries at [/releases](https://github.com/Lautenschlager-id/OCR-desktop-launcher/releases)
 - Create a file named `google_key`, its value must be the key for the Google's Content Vision API
 
 To better enjoy the launcher, it's preferable that you setup a hotkey for it to open.
