@@ -38,7 +38,7 @@
 			this.Cursor = System.Windows.Forms.Cursors.SizeAll;
 			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.Name = "Launcher";
-			//this.TopMost = true;
+			this.TopMost = true;
 			this.TransparencyKey = System.Drawing.Color.MintCream;
 			this.Paint += new System.Windows.Forms.PaintEventHandler(this.OnPaint);
 			this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.OnKeyUp);
