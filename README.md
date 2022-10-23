@@ -13,7 +13,7 @@ This launcher requires internet connection and a key for [Google's Content Visio
 
 - Select the area of your screen that you'd like to extract the text from;
 	- If needed, you can adjust the area's dimensions<br>
-
+	![image](https://user-images.githubusercontent.com/26045253/197375750-badfae02-eff2-4532-9c82-7d4c50bf9ccd.png)
 - Then, press the Enter key;
 
 - While the cursor presents a loading animation, the content is getting stored in your clipboard. Once finished, use it as you wish.
